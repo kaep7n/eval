@@ -1,0 +1,6 @@
+@Orleans.Tasks_HostAddress = http://localhost:4000
+
+GET {{Orleans.Tasks_HostAddress}}/start/room-1
+Accept: application/json
+
+###
